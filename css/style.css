@@ -12,9 +12,8 @@ body {
   justify-content: center;
 }
 
-
 .container {
-  max-width: 600px; /* Restored original container width */
+  max-width: 600px;
 }
 
 .card {
@@ -60,6 +59,7 @@ h2 {
 
 .btn-primary {
   background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border: none;
 }
 
 .btn-primary:hover {
@@ -69,6 +69,7 @@ h2 {
 
 .btn-secondary {
   background: linear-gradient(45deg, #555, #333);
+  border: none;
 }
 
 .btn-secondary:hover {
